@@ -4,6 +4,8 @@ FROM mcr.microsoft.com/dotnet/framework/aspnet:4.8-windowsservercore-ltsc2019
 WORKDIR /inetpub/wwwroot
 COPY /POC_KUBE_KEYVAULT/bin/publish . 
 RUN DIR
+EXPOSE 80:80
+
 
 	
 
