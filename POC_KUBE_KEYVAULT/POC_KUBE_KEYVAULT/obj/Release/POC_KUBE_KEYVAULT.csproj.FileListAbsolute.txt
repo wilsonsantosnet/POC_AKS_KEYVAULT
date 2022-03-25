@@ -111,3 +111,14 @@ C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\System.Text
 C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\System.Text.Json.xml
 C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\System.Threading.Tasks.Extensions.xml
 C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\System.ValueTuple.xml
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Azure.Identity.dll
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Microsoft.Identity.Client.dll
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Azure.Identity.xml
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Microsoft.Identity.Client.xml
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Microsoft.Configuration.ConfigurationBuilders.Environment.dll
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\projetos\POC_AKS_KEYVAULT\POC_KUBE_KEYVAULT\POC_KUBE_KEYVAULT\bin\Microsoft.Configuration.ConfigurationBuilders.Environment.xml
